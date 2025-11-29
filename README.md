@@ -29,6 +29,20 @@
 
 
 ## 🛠️ My Skills
+<p align="center"> 🚀 <b>Focused on building real solutions, not just writing code.</b><br><br> I work with Java and Python to build clean, scalable and maintainable applications. I enjoy solving real problems, breaking complexity into simple pieces, and turning ideas into functional software.<br><br>
+
+🧰 <b>What I’m good at:</b><br>
+• Clean OOP (Java / Python)<br>
+• File handling, APIs & automation<br>
+• GUI development (NetBeans / Tkinter)<br>
+• Algorithms & data structures<br>
+• Debugging, refactoring & improving code<br><br>
+
+💡 <b>Fast learner. Curious. Team-friendly.</b><br>
+I adapt quickly and love collaborating, documenting and delivering clear solutions.
+
+</p>
+
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
