@@ -29,7 +29,7 @@
 
 
 ## 🛠️ My Skills
-<p align="center"> 🚀 <b>Focused on building real solutions, not just writing code.</b><br><br> I work with Java and Python to build clean, scalable and maintainable applications. I enjoy solving real problems, breaking complexity into simple pieces, and turning ideas into functional software.<br><br>
+<p align="center"> 🚀 <b>Focused on building real solutions, not just writing code.</b><br><br> I enjoy solving real problems, breaking complexity into simple pieces, and turning ideas into functional software.<br><br>
 
 🧰 <b>What I’m good at:</b><br>
 • Clean OOP (Java / Python)<br>
@@ -38,8 +38,8 @@
 • Algorithms & data structures<br>
 • Debugging, refactoring & improving code<br><br>
 
-💡 <b>Fast learner. Curious. Team-friendly.</b><br>
-I adapt quickly and love collaborating, documenting and delivering clear solutions.
+💡 <b>Fast learner. Curious.</b><br>
+I adapt quickly, documenting and delivering clear solutions.
 
 </p>
 
